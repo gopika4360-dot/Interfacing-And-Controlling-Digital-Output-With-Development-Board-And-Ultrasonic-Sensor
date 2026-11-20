@@ -75,9 +75,10 @@ void loop() {
 
 ## Output:
 
-<img width="1332" height="692" alt="WhatsApp Image 2026-11-20 at 8 31 10 AM" src="https://github.com/user-attachments/assets/776a667b-8fb4-4dce-848e-5f6779138936" />
-<img width="1919" height="822" alt="image" src="https://github.com/user-attachments/assets/1920c582-5491-4227-bc31-0012e361750f" />
-<img width="1919" height="832" alt="image" src="https://github.com/user-attachments/assets/490dc40e-1b6a-4279-b1c7-8548c1545f74" />
+<img width="1092" height="577" alt="Screenshot 2026-11-20 161649" src="https://github.com/user-attachments/assets/a3bd6659-47a3-4d89-9479-21ce6aa5d1c0" />
+<img width="1042" height="438" alt="Screenshot 2026-11-20 161659" src="https://github.com/user-attachments/assets/8297481f-bd96-4842-814d-04773cb7bea7" />
+<img width="1045" height="416" alt="Screenshot 2026-11-20 161710" src="https://github.com/user-attachments/assets/a1d96160-adcc-4f1d-a9bb-98b3a615e974" />
+
 
 ## Result:
 
