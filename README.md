@@ -63,7 +63,7 @@ void loop() {
   digitalWrite(trigPin, LOW);
   
   long duration = pulseIn(echoPin, HIGH);
-  int distance = duration * 0.0343 / 2; // Speed of sound wave divided by 2 (to and fro)
+  int distance = duration * 0.0343 / 2; 
   
   Serial.print("Distance: ");
   Serial.print(distance);
